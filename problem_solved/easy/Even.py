@@ -11,7 +11,7 @@ def problem_function(num):
     return even
 
 
-num=100000003
+num=10003
 if __name__ ==  '__main__':
     print(problem_function(num))
 
